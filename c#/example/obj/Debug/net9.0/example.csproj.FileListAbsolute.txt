@@ -1,0 +1,15 @@
+D:\Curso Estrutura de Dados e Algoritmos\c#\example\bin\Debug\net9.0\example.exe
+D:\Curso Estrutura de Dados e Algoritmos\c#\example\bin\Debug\net9.0\example.deps.json
+D:\Curso Estrutura de Dados e Algoritmos\c#\example\bin\Debug\net9.0\example.runtimeconfig.json
+D:\Curso Estrutura de Dados e Algoritmos\c#\example\bin\Debug\net9.0\example.dll
+D:\Curso Estrutura de Dados e Algoritmos\c#\example\bin\Debug\net9.0\example.pdb
+D:\Curso Estrutura de Dados e Algoritmos\c#\example\obj\Debug\net9.0\example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Estrutura de Dados e Algoritmos\c#\example\obj\Debug\net9.0\example.AssemblyInfoInputs.cache
+D:\Curso Estrutura de Dados e Algoritmos\c#\example\obj\Debug\net9.0\example.AssemblyInfo.cs
+D:\Curso Estrutura de Dados e Algoritmos\c#\example\obj\Debug\net9.0\example.csproj.CoreCompileInputs.cache
+D:\Curso Estrutura de Dados e Algoritmos\c#\example\obj\Debug\net9.0\example.sourcelink.json
+D:\Curso Estrutura de Dados e Algoritmos\c#\example\obj\Debug\net9.0\example.dll
+D:\Curso Estrutura de Dados e Algoritmos\c#\example\obj\Debug\net9.0\refint\example.dll
+D:\Curso Estrutura de Dados e Algoritmos\c#\example\obj\Debug\net9.0\example.pdb
+D:\Curso Estrutura de Dados e Algoritmos\c#\example\obj\Debug\net9.0\example.genruntimeconfig.cache
+D:\Curso Estrutura de Dados e Algoritmos\c#\example\obj\Debug\net9.0\ref\example.dll
