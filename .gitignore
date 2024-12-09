@@ -4,4 +4,6 @@ controle.txt
 Curso Estrutura de Dados e Algoritmos.iml
 out
 .idea
-example.sln
+c#/example.sln
+c#/example/bin
+c#/example/obj
